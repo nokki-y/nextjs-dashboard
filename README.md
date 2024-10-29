@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+# nextjs-dashboard-use-supabase
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+The dashboard application created in the tutorial with the addition of Supabase's authentication functionality.
+The base repository is `https://github.com/nokki-y/nextjs-dashboard.git`.
